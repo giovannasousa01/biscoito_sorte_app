@@ -14,8 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Biscoito da Sorte',
       theme: ThemeData(
-        primarySwatch: Colors.indigo,
-
+        primarySwatch: Colors.amber,
       ),
       home: const HomePage(),
     );
