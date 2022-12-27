@@ -1,16 +1,47 @@
-# biscoito_sorte_app
+<h1 align="left">Biscoito da Sorte App 🥠</h1>
 
-A new Flutter project.
+<h2>Olá Mundo! Como vocês estão? 😄</h2>
 
-## Getting Started
+## Descrição do Projeto:
 
-This project is a starting point for a Flutter application.
+<p align="justify"> O seguinte projeto é a criação de um app de um biscoito da sorte, que gera frases aleatoriamente por meio de uma função simples ativada por meio de um botão.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Como foi feito:
+<dl>
+    <dt> 👩‍💻 Linguagens utilizadas:
+    <dd>
+        <a 
+            href="https://flutter.dev/?gclsrc=ds&gclsrc=ds"> 🔗 Flutter 
+        </a>
+    </dd>
+    <dd> 
+        <a 
+            href="https://dart.dev/"> 🔗Dart 
+        </a> 
+    </dd>
+<br>
+<dt> 💻 Ambiente de Programação:
+    <dd> 
+        <a 
+            href="https://code.visualstudio.com/"> 🔗 VS Code
+        </a> 
+    </dd>
+</dl>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Status do Projeto 🚧
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="left"> 
+	Biscoito da Sorte 🚀 Concluído  🎉
+</h3>
+
+<br>
+
+## Resultado Final
+
+<p align="left">
+  <img alt="Tela inicial" src="app_example_1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Tela com a frase" src="app_example_2.png" width="45%">
+</p>
+
